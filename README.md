@@ -1,3 +1,3 @@
 # Movie-Collection
-Movie Collection Application
-I wrote this application in Visual Basic.
+I wrote this in Visual Basic.
+
